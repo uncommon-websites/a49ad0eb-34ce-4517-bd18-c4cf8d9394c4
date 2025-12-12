@@ -2,27 +2,27 @@
   const steps = [
     {
       num: "01",
-      title: "Design yours",
-      desc: "Take your pick with layouts and customizations that reflect your style and needs.",
-      img: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop"
+      title: "Spray evenly",
+      desc: "Apply ShineRV Pro+ across your RV's exterior using our spray bottle. Our concentrated formula spreads evenly with no streaks.",
+      img: "https://images.unsplash.com/photo-1563207153-f403bf289096?q=80&w=2071&auto=format&fit=crop"
     },
     {
       num: "02",
-      title: "Sign off",
-      desc: "We visit your site to create a complete proposal for the work required to install Backyard.",
-      img: "https://images.unsplash.com/photo-1599619351208-3e6c839d6828?q=80&w=2072&auto=format&fit=crop"
+      title: "Let it work",
+      desc: "Allow 2-3 minutes for the formula to penetrate and lift dirt, grime, and oxidation from the surface.",
+      img: "https://images.unsplash.com/photo-1501139083538-0139583c060f?q=80&w=2070&auto=format&fit=crop"
     },
     {
       num: "03",
-      title: "Sit back",
-      desc: "We secure permitting, permits, manufacture your ADU, and prep your site. You get to relax.",
-      img: "https://images.unsplash.com/photo-1581094794329-cd8119608f84?q=80&w=2070&auto=format&fit=crop"
+      title: "Wipe clean",
+      desc: "Use a microfiber cloth to wipe away dirt. No scrubbing required—our formula does the heavy lifting.",
+      img: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=2070&auto=format&fit=crop"
     },
     {
       num: "04",
-      title: "Get your keys",
-      desc: "After as few as eight weeks on site, we'll deliver Backyard to your life. Your life is now ready for use.",
-      img: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1973&auto=format&fit=crop"
+      title: "Enjoy the shine",
+      desc: "Admire your brilliant, streak-free finish that lasts 4-6 weeks. More time traveling, less time cleaning.",
+      img: "https://images.unsplash.com/photo-1527786356703-4b100091cd2c?q=80&w=2069&auto=format&fit=crop"
     }
   ];
 </script>
@@ -30,7 +30,7 @@
 <section class="bg-white py-24 px-6">
   <div class="max-w-[1200px] mx-auto">
     <h2 class="text-[40px] leading-tight font-light text-gray-900 mb-16 max-w-[600px]">
-      Get Backyard in four simple steps. And as few as eight weeks on site.
+      Clean your RV in four simple steps. And as few as 15 minutes.
     </h2>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
@@ -51,15 +51,15 @@
     <div class="bg-[#f9f9f7] rounded-2xl p-12 flex flex-col md:flex-row items-center justify-between gap-8">
       <div>
         <h3 class="text-2xl font-light mb-2">Want the details?</h3>
-        <p class="text-gray-500 text-sm">Learn more about our fast, easy installation process.</p>
+        <p class="text-gray-500 text-sm">Learn more about our simple, effective cleaning process.</p>
       </div>
       <div class="flex gap-4">
         <button class="px-6 py-3 bg-white border border-gray-200 hover:bg-gray-50 rounded-lg text-sm font-medium transition-colors">
           How it works
         </button>
-        <button class="px-6 py-3 bg-[#007aff] hover:bg-[#0062cc] text-white rounded-lg text-sm font-medium transition-colors flex items-center gap-2">
+        <button class="px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-lg text-sm font-medium transition-colors flex items-center gap-2">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-          Download brochure
+          Download guide
         </button>
       </div>
     </div>

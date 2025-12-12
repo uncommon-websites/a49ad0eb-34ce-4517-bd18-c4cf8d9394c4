@@ -6,20 +6,20 @@
     <div class="grid grid-cols-1 md:grid-cols-12 gap-8 items-start">
       <!-- Left -->
       <div class="md:col-span-3 pt-2">
-        <p class="text-gray-500 text-lg font-light leading-tight">Small living,<br>supersized.</p>
+        <p class="text-gray-500 text-lg font-light leading-tight">Effortless shine,<br>lasting protection.</p>
       </div>
 
       <!-- Center -->
       <div class="md:col-span-6 flex justify-center">
-        <h1 class="text-[180px] leading-none font-light tracking-tighter -mt-8">XL 10</h1>
+        <h1 class="text-[120px] md:text-[180px] leading-none font-light tracking-tighter -mt-8">Pro+</h1>
       </div>
 
       <!-- Right -->
       <div class="md:col-span-3 pt-4">
         <p class="text-gray-600 text-[15px] leading-relaxed mb-4">
-          Introducing Backyard XL 10.<br>
-          Two bedrooms, two baths.<br>
-          950 square feet.
+          Introducing ShineRV Pro+.<br>
+          Concentrated formula.<br>
+          Superior coverage.
         </p>
         <a href="#" class="text-[13px] font-medium text-gray-900 hover:text-gray-600 transition-colors flex items-center gap-1">
           Learn more <span class="text-[10px]">></span>
@@ -31,8 +31,8 @@
   <!-- Hero Image -->
   <div class="w-full h-[600px] bg-gray-200 overflow-hidden relative">
     <img 
-      src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop" 
-      alt="Backyard XL 10 House" 
+      src="https://images.unsplash.com/photo-1527786356703-4b100091cd2c?q=80&w=2069&auto=format&fit=crop" 
+      alt="Clean RV" 
       class="w-full h-full object-cover"
     />
   </div>
